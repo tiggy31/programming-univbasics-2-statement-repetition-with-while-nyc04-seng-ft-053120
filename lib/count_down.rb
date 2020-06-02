@@ -1,4 +1,4 @@
-count = log10
+count = 10
 while count >= 1 do 
   puts count 
   count -= log10end 
