@@ -1,10 +1,6 @@
-# Write your code here
-
-count = 10 
-reach = 0
-
-while count <= 10 do
-  count = count -1
-  break if count == reach
-  puts " Happy New Year!"
+count = log10
+while count >= 1 do 
+  puts count 
+  count -= log10end 
+  puts "Happy New Year!"
 end
